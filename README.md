@@ -140,7 +140,7 @@ I am a full stack developer with a strong focus on contributing to open-source p
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamAggarwal0812&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamAggarwal0812&theme=darkhub&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamAggarwal0812&theme=darkhub&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
