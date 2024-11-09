@@ -148,7 +148,7 @@ I am a full stack developer with a strong focus on contributing to open-source p
 ### 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamAggarwal0812&theme=react-dark" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamAggarwal0812&theme=react-dark&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
 ---
