@@ -16,7 +16,7 @@ jobs:
           svg_out_path: dist/snake.svg
 
       - name: Upload Snake
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: snake
           path: dist/snake.svg
