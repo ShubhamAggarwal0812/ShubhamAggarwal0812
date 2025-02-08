@@ -13,7 +13,7 @@
 
 I am a full stack developer with a strong focus on contributing to open-source projects and building impactful applications. I’m constantly pushing my limits and exploring ways to use technology for meaningful outcomes.
 
-- 🔭 **Current Focus**: Working as an Associate Software Engineer at [Better Software](https://www.bettrsw.com)
+- 🔭 **Current Focus**: Working as a Software Engineer at [Better Software](https://www.bettrsw.com)
 - 🌱 **Learning**: Advanced programming languages and frameworks for personal and perofessional growth
 - 💬 **Ask Me About**: Full Stack Development, Mobile App Developement, Open Source
 
