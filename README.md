@@ -47,7 +47,6 @@ I am a **Full Stack Developer** passionate about open-source and building impact
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DBFB)
 ![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux&logoColor=white)
 
@@ -55,7 +54,6 @@ I am a **Full Stack Developer** passionate about open-source and building impact
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-111?style=flat-square&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=django&logoColor=white)
 
 ### 🔹 Mobile
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -67,14 +65,12 @@ I am a **Full Stack Developer** passionate about open-source and building impact
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
 ### 🔹 Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -112,8 +108,8 @@ I am a **Full Stack Developer** passionate about open-source and building impact
 
 Thank you for visiting my profile!  
 ❓ *Want to collaborate, discuss an idea, or have a question?*  
-📬 Reach out through email or connect on LinkedIn.
+📬 Reach out through <a href="mailto:shubhamaggarwal0812@gmail.com">email</a> or connect on <a href="https://linkedin.com/in/shubhamaggarwal0812" target="_blank">LinkedIn</a>.
 
-<p align="center">
+<p align="end">
   <img src="https://komarev.com/ghpvc/?username=ShubhamAggarwal0812&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
