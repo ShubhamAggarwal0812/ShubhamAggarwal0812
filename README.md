@@ -57,6 +57,9 @@ I am a **Full Stack Developer** passionate about open-source and building impact
 
 ### 🔹 Mobile
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)
+![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-20232a?style=flat-square&logo=react&logoColor=61DBFB)
 
 ### 🔹 Database & Cloud
